@@ -19,7 +19,7 @@ export default function Home() {
         <p className={styles.description}>
           เว็บตรง ระบบฝากถอนอัตโนมัติ 24 ชม.
         </p>
-        <Image src="https://lh3.googleusercontent.com/drive-viewer/AJc5JmT3bxI-chSNdCq31UH2zNg13u5D5WBY-FSIWRhOoJ-9ZvweyCq5bHSo70jI_Z6nxpzQ5vhgR-8=w1343-h1299"/>
+        <Image src="https://drive.google.com/file/d/18i6_m7HzMEOPX9oTbnbiqt9jToQIxq4U/view?usp=sharing"/>
       </main>
 
       <footer className={styles.footer}>
