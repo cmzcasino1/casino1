@@ -10,7 +10,7 @@ export default function Home() {
       </Head>
 
       <main className={styles.main}>
-        <img src = "https://drive.google.com/uc?id=152BVSOp4uk1dZi36ziVdYnFXJykYgz1a&export=download" width={500} />
+        <img src = "https://drive.google.com/uc?id=152BVSOp4uk1dZi36ziVdYnFXJykYgz1a&export=download" width={700} />
         <h1 className={styles.title}>
           MM88 <a href="https://lin.ee/5McV2on">CASINO1</a>
         </h1>
@@ -24,14 +24,9 @@ export default function Home() {
 
       <footer className={styles.footer}>
         <a
-          href="https://vercel.com?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
-          target="_blank"
-          rel="noopener noreferrer"
+          href="https://lin.ee/5McV2on"
         >
-          Powered by{' '}
-          <span className={styles.logo}>
-            By cMz
-          </span>
+          Powered by cMz {' '}
         </a>
       </footer>
     </div>
