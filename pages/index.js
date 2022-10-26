@@ -1,7 +1,3 @@
-import Head from 'next/head'
-import Image from 'next/image'
-import styles from '../styles/Home.module.css'
-
 export default function Home() {
   return (
     <div className={styles.container}>
@@ -11,7 +7,7 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
-      <top className={styles.main}>
+      <main className={styles.main}>
         <img src = "https://drive.google.com/uc?id=152BVSOp4uk1dZi36ziVdYnFXJykYgz1a&export=download" width={500} />
         <h1 className={styles.title}>
           MM88 <a href="https://lin.ee/5McV2on">CASINO1</a>
@@ -22,7 +18,7 @@ export default function Home() {
         </p>
         <img src = "https://drive.google.com/uc?id=18i6_m7HzMEOPX9oTbnbiqt9jToQIxq4U&export=download" width={500} />
        
-      </top>
+      </main>
 
       <footer className={styles.footer}>
         <a
