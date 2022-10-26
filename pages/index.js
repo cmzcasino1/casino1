@@ -1,3 +1,5 @@
+import Head from 'next/head'
+import Image from 'next/image'
 import styles from '../styles/Home.module.css'
 
 export default function Home() {
@@ -10,7 +12,7 @@ export default function Home() {
       </Head>
 
       <main className={styles.main}>
-        <img src = "https://drive.google.com/uc?id=152BVSOp4uk1dZi36ziVdYnFXJykYgz1a&export=download" width={700} />
+        <img src = "https://drive.google.com/uc?id=152BVSOp4uk1dZi36ziVdYnFXJykYgz1a&export=download" width={500} />
         <h1 className={styles.title}>
           MM88 <a href="https://lin.ee/5McV2on">CASINO1</a>
         </h1>
@@ -24,9 +26,14 @@ export default function Home() {
 
       <footer className={styles.footer}>
         <a
-          href="https://lin.ee/5McV2on"
+          href="https://vercel.com?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
+          target="_blank"
+          rel="noopener noreferrer"
         >
-          Powered by cMz {' '}
+          Powered by{' '}
+          <span className={styles.logo}>
+            <Image src="/vercel.svg" alt="Vercel Logo" width={72} height={16} />
+          </span>
         </a>
       </footer>
     </div>
