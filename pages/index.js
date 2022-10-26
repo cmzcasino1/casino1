@@ -12,14 +12,15 @@ export default function Home() {
       </Head>
 
       <main className={styles.main}>
+        <img src = "https://drive.google.com/uc?id=152BVSOp4uk1dZi36ziVdYnFXJykYgz1a&export=download" width={500} />
         <h1 className={styles.title}>
-          MM88 <a href="https://nextjs.org">CASINO1</a>
+          MM88 <a href="https://lin.ee/5McV2on">CASINO1</a>
         </h1>
 
         <p className={styles.description}>
           เว็บตรง ระบบฝากถอนอัตโนมัติ 24 ชม.
         </p>
-        <img src = "https://drive.google.com/uc?id=18i6_m7HzMEOPX9oTbnbiqt9jToQIxq4U&export=download" width={100} />
+        <img src = "https://drive.google.com/uc?id=18i6_m7HzMEOPX9oTbnbiqt9jToQIxq4U&export=download" width={500} />
        
       </main>
 
