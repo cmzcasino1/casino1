@@ -20,6 +20,7 @@ export default function Home() {
           เว็บตรง ระบบฝากถอนอัตโนมัติ 24 ชม.
         </p>
 
+        <image src="https://login.mm88casino1.com/images/logo-mm88casino1.png"></image>
       </main>
 
       <footer className={styles.footer}>
