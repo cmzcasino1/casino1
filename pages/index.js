@@ -11,7 +11,7 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
-      <main className={styles.main}>
+      <top className={styles.main}>
         <img src = "https://drive.google.com/uc?id=152BVSOp4uk1dZi36ziVdYnFXJykYgz1a&export=download" width={500} />
         <h1 className={styles.title}>
           MM88 <a href="https://lin.ee/5McV2on">CASINO1</a>
@@ -22,7 +22,7 @@ export default function Home() {
         </p>
         <img src = "https://drive.google.com/uc?id=18i6_m7HzMEOPX9oTbnbiqt9jToQIxq4U&export=download" width={500} />
        
-      </main>
+      </top>
 
       <footer className={styles.footer}>
         <a
